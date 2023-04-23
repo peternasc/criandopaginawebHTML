@@ -1,2 +1,2 @@
-# criandopaginawebHTML
-Desavio de projeto do curos de HTML - DIO
+# Criando Paginas WEB - HTML
+Desavio do curso HTML - DIO - utilizando apenas tags HTML
